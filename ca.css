@@ -26,3 +26,15 @@ h4{
 img {
 	width: 80%;
 }
+
+.container {
+
+	width: 90%
+}
+
+.box{
+	width: 50%;
+}
+
+.right{float: right;}
+.left{float: left;}
