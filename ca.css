@@ -1,26 +1,13 @@
 body {
 	font-family:Roboto, sans-serif;
+	background-color:rgb(240,240,240);
 	margin:7%;
+	margin-top: 3%;
+	border: 0px;
 }
 
 p {
-	font-size:1,4em;
-}
-
-h1{
-	font-size:2,9em;
-}
-
-h2{
-	font-size:2,4em;
-}
-
-h3{
-	font-size:2em;
-}
-
-h4{
-	font-size:1,6em;
+	font-size:17px;
 }
 
 img {
@@ -29,7 +16,7 @@ img {
 
 .container {
 
-	width: 90%
+	width: 80%;
 }
 
 .box{
