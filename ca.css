@@ -2,7 +2,7 @@ body {
 	font-family:Roboto, sans-serif;
 	background-color:rgb(240,240,240);
 	margin:7%;
-	margin-top: 3%;
+	margin-top: 3% auto;
 	border: 0px;
 }
 
