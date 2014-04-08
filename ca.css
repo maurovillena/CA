@@ -65,8 +65,15 @@ header{
 	text-align: center;
 	margin: 0px;
 	color: #FFFFFF;
-	padding-top: 300px;
+	padding-top: 240px;
 			}
+
+.topbox img{
+	display: block;
+	margin: 0 auto;
+	width: 140px;
+	margin-top: 50px;
+		}
 /*-----------*/
 
 /*CAJA CENTRAL*/
