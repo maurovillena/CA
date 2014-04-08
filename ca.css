@@ -99,9 +99,10 @@ header{
 /*------------*/
 
 /*-------IPHONE--------*/
-@media screen and (max-width: 650px){
-
+@media screen and (min-device-width: 320px;) and (max-device-width: 568px;) {
 /*header*/
+
+
 header{
 	background-color: #FFFFFF;
 	width: 100%;
@@ -129,14 +130,12 @@ header{
 	color:#FFFFFF;
 	background-color: #000000;
 		}
+
+
+
 /*------------------*/
-
-
-
-
-
-
 }
+
 
 
 
