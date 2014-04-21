@@ -76,17 +76,6 @@ header{
 		}
 /*-----------*/
 
-/*CAJA CENTRAL*/
-
-.cbox{
-	padding:5%;
-	width:80%;
-		}
-.cbox img{
-	width: 600px;
-		}
-
-/*-----------*/
 
 /*CAJA INZQUIERDA Y DERECHA*/
 
@@ -105,42 +94,6 @@ header{
 .left{float: left;}
 /*------------*/
 
-/*-------IPHONE--------*/
-@media screen and (min-device-width: 320px;) and (max-device-width: 568px;) {
-/*header*/
-
-
-header{
-	background-color: #FFFFFF;
-	width: 100%;
-	height: 400px;
-		}
-
-.navbar-box{
-	width: 94%;
-	padding-left: 6%
-		}
-
-.navbar-brand{
-	text-align: center;
-	float: left;
-	width:50px;
-	padding: 15px;
-	font-size: 18px;
-	color: #000000;
-	line-height: 20px;
-	background-color: #FFFFFF;
-		}
-
-.navbar-brand:hover{
-	font-variant: bold;
-	color:#FFFFFF;
-	background-color: #000000;
-		}
-
-
-
-/*------------------*/
 }
 
 
